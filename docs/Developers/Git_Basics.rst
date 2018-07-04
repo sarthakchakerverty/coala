@@ -1,5 +1,5 @@
-Git Tutorial
-============
+Git Tutorial Sarthak
+====================
 
 This tutorial will help you understand how git works and how to use git to
 submit your commit on Github.
